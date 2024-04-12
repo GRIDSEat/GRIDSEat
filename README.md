@@ -1,5 +1,8 @@
 ### Hi there 👋
-# 🔭 I’m currently working on ...
+# 🔭 Este año trabajaremos en los siguientes proyectos: 
+- 🤔 LIDMA
+- IAR
+- Facultad de ciencias agrarias
 <!--
 **Alejandro-Aldo/Alejandro-Aldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
