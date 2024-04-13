@@ -1,7 +1,7 @@
 #  Hola, mi nombre es Alejandro Lorenzut 👋
-### Profesor de Prácticas profesionalizantes de la especialidad "Técnico en electrónica"
+### Trabajo en le Escuela de Educación Secundaria Técnica N° 6 "Albert Thomas de la ciuda de la Plata"
 
-[![]](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)
+(https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)()
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -10,12 +10,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
-
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
