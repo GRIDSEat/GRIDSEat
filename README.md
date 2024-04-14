@@ -2,7 +2,7 @@
 ### Trabajo en la Escuela de Educación Secundaria Técnica N° 6 "Albert Thomas" de la ciudad de la Plata.
 
 
-![https://github.com/GRIDSEat](banner.png)
+![https://github.com/GRIDSEat]()
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 
