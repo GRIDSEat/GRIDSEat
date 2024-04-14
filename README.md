@@ -25,22 +25,20 @@ Y alguna más...
 ### Proyecto donde se realizan seis mediciones de temperatura, tres mediciones de tensión y tres mediciones de corriente. Proyecto propuesto por el Instituto Argentino de Radioastronomía (CONICET)
 ### Las variables son enviadas a un servidor a través de comunicación UDP Ethernet, alli se muestran en un interfáz gráfico y se almacena en una planilla de Excel.
 
-![https://github.com/GRIDSEat](./python_banner.png)
+
 
 ## IAR SGI SCAP
 ### Proyecto a demanda del Instituto Argentino de Radioastronomía (CONICET).
 ### Consta de Terminales registradoras conectadas a un servidor mediante WiFi protocolo MQTT. Mediante Node Red se visualiza el desplazamiento de instrumental como así también del personal. 
 ### Los datos se almacenan en una base de datos mysql.
-![https://mouredev.com/git](./git_github_banner.png)
 
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+
 
 ## LIDMA
 ### Desarrollo de un proyecto a demanda del Lasboratorio de Investigación y Desarrollo de Métodos Analíticos  (CONICET).
 ### Desarrollo de un horno de cocción dinámica de capilares.
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
 
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
+
 
 ## Forestales
 ### Proyecto a demanda de la Facultad de Ciencias Agrarias y Forestales. 
