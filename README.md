@@ -1,6 +1,6 @@
 #  Hola, mi nombre es Alejandro Lorenzut 👋
 ### Trabajo en la Escuela de Educación Secundaria Técnica N° 6 "Albert Thomas" de la ciudad de la Plata.
-</br>
+
 [![Trabajos](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)]()
 
 [![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]
