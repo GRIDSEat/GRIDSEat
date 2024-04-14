@@ -2,6 +2,7 @@
 ### Trabajo en la Escuela de Educación Secundaria Técnica N° 6 "Albert Thomas" de la ciudad de la Plata.
 
 [![Trabajos](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)]()
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 [![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]
 </br>
