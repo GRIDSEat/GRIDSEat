@@ -4,6 +4,7 @@
 [![Trabajos](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)]()
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
+https://github.com/GRIDSEat/GRIDSEat/commit/144d840fac39784e743190eabe1dba329f04d088#commitcomment-140942003
 [![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]
 </br>
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
