@@ -26,7 +26,7 @@ Y alguna más...
 ### Proyecto donde se realizan seis mediciones de temperatura, tres mediciones de tensión y tres mediciones de corriente. Proyecto propuesto por el Instituto Argentino de Radioastronomía (CONICET)
 ### Las variables son enviadas a un servidor a través de comunicación UDP Ethernet, alli se muestran en un interfáz gráfico y se almacena en una planilla de Excel.
 <p>
-  
+fasd  
 </p>
 
 
