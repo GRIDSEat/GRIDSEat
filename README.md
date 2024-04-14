@@ -3,13 +3,13 @@
 
 [![Trabajos](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)]()
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/alejandrolorenzut6906?sub_confirmation=1)   
 
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
 
 En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+
 
 ## Tecnologías:
 
