@@ -6,7 +6,7 @@
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 
-[![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]
+[![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]()
 
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
 En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
