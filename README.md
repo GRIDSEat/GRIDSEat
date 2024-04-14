@@ -61,6 +61,6 @@ Y alguna más...
 
 
 ## Contacto:
-</br>
+
 [![Email](https://img.shields.io/badge/alelorenzut@hotmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alelorenzut@hotmail.com)
-</br>
+
