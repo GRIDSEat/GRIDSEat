@@ -26,7 +26,7 @@ Y alguna más...
 ### Proyecto donde se realizan seis mediciones de temperatura, tres mediciones de tensión y tres mediciones de corriente. Proyecto propuesto por el Instituto Argentino de Radioastronomía (CONICET)
 ### Las variables son enviadas a un servidor a través de comunicación UDP Ethernet, alli se muestran en un interfáz gráfico y se almacena en una planilla de Excel.
 <p>
-fasd  
+---
 </p>
 
 
@@ -34,19 +34,25 @@ fasd
 ### Proyecto a demanda del Instituto Argentino de Radioastronomía (CONICET).
 ### Consta de Terminales registradoras conectadas a un servidor mediante WiFi protocolo MQTT. Mediante Node Red se visualiza el desplazamiento de instrumental como así también del personal. 
 ### Los datos se almacenan en una base de datos mysql.
-
+<p>
+---
+</p>
 
 
 ## LIDMA
 ### Desarrollo de un proyecto a demanda del Lasboratorio de Investigación y Desarrollo de Métodos Analíticos  (CONICET).
 ### Desarrollo de un horno de cocción dinámica de capilares.
-
+<p>
+---
+</p>
 
 
 ## Forestales
 ### Proyecto a demanda de la Facultad de Ciencias Agrarias y Forestales. 
 ### Consta de un sistema de adquisición de datos como la humedad en el suelo y captura una imagen de las plantas de tala. A través un módulo LoRa se envían a un servidor donde se realiza reconocimiento de imágen y se establece el ritmo de crecimiento de las plantas.
-
+<p>
+---
+</p>
 
 ## Contacto:
 
