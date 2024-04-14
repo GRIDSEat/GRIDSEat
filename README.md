@@ -22,9 +22,10 @@ Y alguna más...
 # Los proyectos del ciclo lectivo 2024
 
 ## IAR Telemetría
+<p>
 ### Proyecto donde se realizan seis mediciones de temperatura, tres mediciones de tensión y tres mediciones de corriente. Proyecto propuesto por el Instituto Argentino de Radioastronomía (CONICET)
 ### Las variables son enviadas a un servidor a través de comunicación UDP Ethernet, alli se muestran en un interfáz gráfico y se almacena en una planilla de Excel.
-
+</p>
 
 
 ## IAR SGI SCAP
@@ -43,7 +44,7 @@ Y alguna más...
 ## Forestales
 ### Proyecto a demanda de la Facultad de Ciencias Agrarias y Forestales. 
 ### Consta de un sistema de adquisición de datos como la humedad en el suelo y captura una imagen de las plantas de tala. A través un módulo LoRa se envían a un servidor donde se realiza reconocimiento de imágen y se establece el ritmo de crecimiento de las plantas.
-![https://github.com/GRIDSEat](./python_banner.png)
+
 
 ## Contacto:
 
