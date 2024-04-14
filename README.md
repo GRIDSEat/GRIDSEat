@@ -21,8 +21,8 @@ En 1980 ingresé como alumno de la escuela industrial egresando de la misma con 
 </br>
 Y alguna más...
 ## Encuéntrame en:
-[![Link](https://img.shields.io/badge/Link-AlbertThomas.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://eest6albertthomas.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Link](https://img.shields.io/badge/Link-Albert_Thomas.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://eest6albertthomas.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Lorenzut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-lorenzut-aa6792235/)
 
 # Los proyectos del ciclo lectivo 2024
 
