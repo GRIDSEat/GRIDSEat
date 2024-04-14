@@ -4,7 +4,7 @@
 ![https://github.com/GRIDSEat](vsc2.png)
 
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
-En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
+Desde mi espacio 
 
 ## Tecnologías:
 
@@ -18,7 +18,7 @@ Y alguna más...
 ## También estoy en:
 [![Link](https://img.shields.io/badge/Link-Albert_Thomas.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://eest6albertthomas.com/gridse/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Lorenzut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-lorenzut-aa6792235/)
-[![YouTube](https://img.shields.io/badge/YouTube-Alejandro_Lorenzut-0077B5?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=111011)](https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)
+[![YouTube](https://img.shields.io/badge/YouTube-Alejandro_Lorenzut-0077B5?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101011)](https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)
 
 
 # Los proyectos del ciclo lectivo 2024
