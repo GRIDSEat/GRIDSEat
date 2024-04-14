@@ -11,29 +11,20 @@
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
 En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
 
-
-
 ## Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Node-Red](https://img.shields.io/badge/NodeRed-339933?style=for-the-badge&logo=nodeRed&logoColor=white&labelColor=110010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=Cpp&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
-
 ## Encuéntrame en:
-
-
 [![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 
-
-
 # Los proyectos del ciclo lectivo 2024
-
-
 
 ## IAR Telemetría
 ### Proyecto donde se realizan seis mediciones de temperatura, tres mediciones de tensión y tres mediciones de corriente. Proyecto propuesto por el Instituto Argentino de Radioastronomía (CONICET)
@@ -62,9 +53,6 @@ Y alguna más...
 ### Proyecto a demanda de la Facultad de Ciencias Agrarias y Forestales. 
 ### Consta de un sistema de adquisición de datos como la humedad en el suelo y captura una imagen de las plantas de tala. A través un módulo LoRa se envían a un servidor donde se realiza reconocimiento de imágen y se establece el ritmo de crecimiento de las plantas.
 ![https://github.com/GRIDSEat](./python_banner.png)
-
-
-
 
 ## Contacto:
 
