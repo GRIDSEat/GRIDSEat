@@ -9,7 +9,6 @@
 [![YouTube Channel Subscribers](https://youtube.com/alejandrolorenzut6906)(https://www.youtube.com/channel/UCNZZi0WVVZqcLtZGl-sIWFw)]
 
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
-
 En 1980 ingresé como alumno de la escuela industrial egresando de la misma con el título de técnico en electrónica y auxiliar técnico electricista en aparatos y epuipos de electrónica industrial (plan dual) en el año 1987. Al siguiente año ingresé en la Facultad de Ingeniería 
 
 
@@ -17,10 +16,10 @@ En 1980 ingresé como alumno de la escuela industrial egresando de la misma con 
 ## Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-
+[![Node-Red](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
@@ -47,7 +46,7 @@ Y alguna más...
 ## IAR SGI SCAP
 ### Proyecto a demanda del Instituto Argentino de Radioastronomía (CONICET).
 ### Consta de Terminales registradoras conectadas a un servidor mediante WiFi protocolo MQTT. Mediante Node Red se visualiza el desplazamiento de instrumental como así también del personal. 
-Los datos se almacenan en una base de datos mysql.
+### Los datos se almacenan en una base de datos mysql.
 ![https://mouredev.com/git](./git_github_banner.png)
 
 [![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
