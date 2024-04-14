@@ -11,7 +11,7 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Node-Red](https://img.shields.io/badge/NodeRed-pink?style=for-the-badge&logo=nodeRed&logoColor=white&labelColor=110010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 
 Y alguna más...
 ## También estoy en:
