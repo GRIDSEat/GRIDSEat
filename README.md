@@ -3,7 +3,7 @@
 
 [![Trabajos](https://photos.google.com/photo/AF1QipOjNITH2c3wFW4SoBny8Izda4RcXzZOz1dQa0C_)]()
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/alejandrolorenzut6906?sub_confirmation=1)   
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/alejandrolorenzut6906)   
 
 Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
 
