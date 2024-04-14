@@ -3,7 +3,7 @@
 
 ![https://github.com/GRIDSEat](vsc2.png)
 
-### Soy profesor de prácticas profesionalizantes de la especialidad Técnco en electrónica.
+### Soy profesor de prácticas profesionalizantes de la especialidad Técnico en electrónica.
 ### Desde mi espacio conseguí crear un entorno formativo provisto de equipos e insumos electrónicos destinados a la realización de proyectos de extensión que vinculan a nuestra escuela con organismos dependientes de la Universidad Nacional de La Plata y laboratorios dependientes del CONICET.
 
 ## Tecnologías:
